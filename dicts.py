@@ -1,0 +1,30 @@
+futhark = {
+    "f": "ᚠ",
+    "u": "ᚢ",
+    "th": "ᚦ",
+    "a": "ᚨ",
+    "r": "ᚱ",
+    "k": "ᚲ",
+    "c": "ᚲ",
+    "g": "ᚷ",
+    "w": "ᚹ",
+    "h": "ᚺ",
+    "n": "ᚾ",
+    "i": "ᛁ",
+    "j": "ᛃ",
+    "ae": "ᛇ",
+    "p": "ᛈ",
+    "z": "ᛉ",
+    "s": "ᛊ",
+    "t": "ᛏ",
+    "b": "ᛒ",
+    "e": "ᛖ",
+    "m": "ᛗ",
+    "l": "ᛚ",
+    "ng": "ᛜ",
+    "o": "ᛟ",
+    "d": "ᛞ",
+}
+
+# * Note: The dual letter pairs must be at the beginning so they are replaced first
+letters = ["th", "ae", "ng", "f", "u", "a", "r", "k", "c", "g", "w", "h", "n", "i", "j", "p", "z", "s", "t", "b", "e", "m", "l", "o", "d"]
